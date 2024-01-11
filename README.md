@@ -1,7 +1,21 @@
-# Vue 3 + Vite
+<p align="center">
+  <a href="http://nav.untview.top/">
+    <img src="src/assets/image/logo.png" width="130" />
+  </a>
+  <br />
+  <b>耕云导航/b>
+  <p align="center">一款由vue3、naive-ui、thinkphp6.0搭建的前后台分离的导航网站</p>
+  <p align="center">界面简洁、自适应、包含多种卡片模式</p>
+  <p align="center">
+    <a href="README.md">
+      <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
+    </a>
+    <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
+    <a href="https://githubfast.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
+    <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
+    <img src="https://img.shields.io/github/license/xjh22222228/nav" />
+  </p>
+</p>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<br />
+<br />
