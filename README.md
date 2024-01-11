@@ -1,11 +1,11 @@
 <p align="center">
   <a href="http://nav.untview.top/">
-    <img src="src/assets/image/logo.png" width="130" />
+    <img src="src/assets/image/logo.png" width="80" />
   </a>
   <br />
   <b>耕云导航/b>
-  <p align="center">一款由vue3、naive-ui、thinkphp6.0搭建的前后台分离的导航网站</p>
-  <p align="center">界面简洁、自适应、包含多种卡片模式</p>
+  <p align="center">一款基于Vue3、Naive-UI和ThinkPHP6.0的前后台分离的简洁、自适应的导航网站，</p>
+  <p align="center">包含多种页面布局和卡片模式，优化内容提升用户体验。</p>
   <p align="center">
     <a href="README.md">
       <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
@@ -19,3 +19,11 @@
 
 <br />
 <br />
+
+
+## 预览
+**主题**
+
+- [耕云导航 在线预览](https://nav3.cn/#/sim)
+
+![Preview](https://usercontent.githubfast.com/raw/xjh22222228/public/gh-pages/nav/1.png)
