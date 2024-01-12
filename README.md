@@ -10,20 +10,16 @@
     <a href="README.md">
       <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
     </a>
-    <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://githubfast.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
-    <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
-    <img src="https://img.shields.io/github/license/xjh22222228/nav" />
   </p>
 </p>
 
 <br />
 <br />
 
-## 使用须知:
+## 使用须知
 
 本人开发能力不是很牛，哪些很厉害的大神不要用了再喷！！！
-耕云导航目前为v1.0.0版本，后会继续更新增加新功能；也欢迎大家提出宝贵意见。
+耕云导航目前为v1.0.0版本，后会继续更新增加新功能；也欢迎大家提出宝贵建议。
 
 ## 预览
 **主题**
