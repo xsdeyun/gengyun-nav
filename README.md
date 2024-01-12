@@ -20,10 +20,10 @@
 <br />
 <br />
 
-**使用须知:**
-<br />
-本人开发能力不是多牛，哪些觉得自己很厉害的不要用了再喷！！！
-耕云导航目前为v1.0.0版本，后会继续更新增加新功能。
+## 使用须知:
+
+本人开发能力不是很牛，哪些很厉害的大神不要用了再喷！！！
+耕云导航目前为v1.0.0版本，后会继续更新增加新功能；也欢迎大家提出宝贵意见。
 
 ## 预览
 **主题**
@@ -39,147 +39,53 @@
 
 
 ## 特性
-`发现导航` 的理念就是做一款无需依赖后端服务既简单又方便，没有繁杂的配置和数据库等配置概念, 做到开箱即用。
+`耕云导航` 一款简约的综合性导航网站，摆脱书签很多无法找寻的困扰，追求自由、完美的你。
+后台系统由 `耕云计划` 强力驱动，后台带有角色人员管理等，可自行开发对接其他项目；后台系统不止是耕云导航的后台，更是项目综合平台。
 
-- 🍰 内置 `800+` 实用网站。
-- 🍰 支持 SEO。
-- 🍰 完全纯静态, 提供自动化部署功能。
-- 🍰 三叉树分类、结构清晰、分类清晰。
-- 🍰 支持一个网站关联多个网址
-- 🍰 颜值与简约并存，不再是杀马特时代。
-- 🍰 完全开源，轻松定制化。
-- 🍰 支持多种浏览模式，创新。
-- 🍰 支持足迹记忆。
-- 🍰 支持移动端浏览。
-- 🍰 支持搜索查询。
-- 🍰 支持自定义引擎搜索。
-- 🍰 多款主题切换。
-- 🍰 支持暗黑模式。
-- 🍰 支持后台管理, 无需部署。
-- 🍰 支持从Chrome书签导入
-- 🍰 多种Loading加载动画
+- 🏷️ 内置 `180+` 实用网站。
+- 🏷️ 三叉树分类、结构清晰、分类清晰。
+- 🏷️ 支持一个网站关联多个菜单
+- 🏷️ 颜值与简约并存，多种模式。
+- 🏷️ 完全开源，轻松定制化。
+- 🏷️ 支持多种浏览模式，创新。
+- 🏷️ 支持移动端浏览。
+- 🏷️ 支持搜索查询。
+- 🏷️ 支持自定义引擎搜索。
+- 🏷️ 支持暗黑模式。
+- 🏷️ 支持后台管理。
 
 
+## 开发构建 部署
+NODE: v18 
+注意：
+将vite.config中的 `http://127.0.0.1/` 替换成你网站域名
+将.env.production中的 `/index.php?s=` 替换成 域名/index.php?s=
 
-
-## 部署
-像数 `321` 一样简单。
-
-#### 方式一(gh-pages免费)
-1、Fork 当前项目。
-
-2、在仓库页面点击 `main` 分支在输入框输入 `image` 创建一个分支，否则上传图片会出现 404 现象。
-
-3、[https://githubfast.com/settings/tokens](https://githubfast.com/settings/tokens) 申请 token, 勾选相应的权限, 如果不懂就全部选中，复制并保存Token。
-
-4、https://githubfast.com/用户名/nav/settings/secrets/actions/new  添加申请的token， name填写 `TOKEN` 大写。
-
-5、打开 https://githubfast.com/用户名/nav/actions 点击 `绿色按钮`
-
-6、务必修改项目配置文件 [nav.config.ts](nav.config.ts)
-
-7、5分钟后打开 https://用户名.github.io/nav 就能看到一个非常强大的导航网站了。
-
-### 推荐方式二(Vercel免费)
-和方式一的步骤一样，除了第4步不用。
-
-具体使用跟着步骤走即可 [https://githubfast.com/apps/vercel](https://githubfast.com/apps/vercel)
-
-
-
-### 推荐方式三(Netlify免费)
-[https://www.netlify.com/](https://www.netlify.com/)
-
-
-
-## 后台
-将路由地址修改为 `system` 即可进入，如: https://www.nav3.cn/#/light 修改为 https://www.nav3.cn/#/system
-
-
-## 书签导入
-支持从 Chrome 书签导入（WebKit内核应该都是支持的~），会自动检测满足三级分类的导航，其他一律设为未分类：
-
-![](https://usercontent.githubfast.com/raw/xjh22222228/public/gh-pages/nav/import.png)
-
-浏览器打开 [chrome://bookmarks/](chrome://bookmarks/) 导出书签得到 html 文件, 接着从导航网站后台导入即可。
-
-
-
-## 升级
-在升级之前请备份根目录下的 `data` 文件夹和 `nav.config.ts`, 升级完后替换即可。
-
-点击右上角 `Watch` 按钮第一时间跟踪版本升级。
-
-
-
-## 更新日志
-[CHANGELOG](https://githubfast.com/xjh22222228/nav/releases)
-
-
-
-
-
-
-## 开发构建
-NODE: v18
 ``` bash
 # 下载
-git clone --depth=1 https://githubfast.com/xjh22222228/nav.git
+git clone  https://gitee.com/song-xiansen/gengyun-nav.git
 
-cd nav
+cd gengyun-nav
 
 # 安装依赖 NODE: v18
-yarn
+pnpm
 
 # 启动
-yarn start
+pnpm dev
 
 # 打包
-yarn build
+pnpm build
 ```
 
 
 
-## 贡献
-Thank you for your [contribution](https://githubfast.com/xjh22222228/nav/issues), men.
-
-<a href="https://githubfast.com/YutHelloWorld">
-  <img src="https://usercontent.githubfast.com/avatars1/u/20860159?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://githubfast.com/JJJTHuang">
-  <img src="https://usercontent.githubfast.com/avatars3/u/22817432?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://githubfast.com/Fechin">
-  <img src="https://usercontent.githubfast.com/avatars1/u/2541482?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://githubfast.com/setdiaoyong">
-  <img src="https://usercontent.githubfast.com/avatars1/u/62551864?s=460&v=4" width="30px" height="30px" />
-</a>
-
-
-
-
+## 更新日志
+[CHANGELOG](https://gitee.com/song-xiansen/gengyun-nav/releases)
 
 
 ## 建议
-如果有任何功能上的建议可通过 [issue](https://githubfast.com/xjh22222228/nav/issues) 发起, Thank you.
+如果有任何功能上的建议可通过 [issue](https://gitee.com/song-xiansen/gengyun-nav/issues) 发起, Thank you.
 
-
-
-## 支持
-项目成立于 2018 年到至今一直坚持维护和开源, 经过N次的迭代与优化, 如果项目能帮到您是我的荣幸。
-
-您可以请作者喝杯咖啡，继续战斗下去（请备注Github名字）~
-
-<img src="https://cdn.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/32.png" width="600">
-
-感谢您的认可：
-| 姓名    | 支持金额              |
-| --------------------------------------- |----------- |
-| [aiyou9](https://githubfast.com/aiyou9)     | ￥50.00、￥50.00     |
-| [lastares](https://githubfast.com/lastares)       | ￥25.00     |
-| [MrJxySteven](https://githubfast.com/MrJxySteven) | ￥20.00     |
-| 路人甲     | ￥50.00     |
 
 
 ## 协议
