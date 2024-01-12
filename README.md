@@ -56,10 +56,10 @@
 
 
 ## 开发构建 部署
-NODE: v18 
-注意：
-将vite.config中的 `http://127.0.0.1/` 替换成你网站域名
-将.env.production中的 `/index.php?s=` 替换成 域名/index.php?s=
+NODE: v18 <br />
+注意：<br />
+将vite.config中的 `http://127.0.0.1/` 替换成你网站域名<br />
+将.env.production中的 `/index.php?s=` 替换成 域名/index.php?s=<br />
 
 ``` bash
 # 下载
