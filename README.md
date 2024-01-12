@@ -20,7 +20,8 @@
 <br />
 <br />
 
-**使用须知**
+**使用须知:**
+<br />
 本人开发能力不是多牛，哪些觉得自己很厉害的不要用了再喷！！！
 耕云导航目前为v1.0.0版本，后会继续更新增加新功能。
 
@@ -32,8 +33,8 @@
 ![Preview](Preview/1.jpg)
 ![Preview](Preview/1-2.jpg)
 ![Preview](Preview/1-3.jpg)
-![Preview](Preview/1-1.jpg)
 ![Preview](Preview/2.jpg)
+![Preview](Preview/1-1.jpg)
 ![Preview](Preview/2-1.jpg)
 
 
