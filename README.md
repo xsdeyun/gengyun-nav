@@ -20,13 +20,21 @@
 <br />
 <br />
 
+**使用须知**
+本人开发能力不是多牛，哪些觉得自己很厉害的不要用了再喷！！！
+耕云导航目前为v1.0.0版本，后会继续更新增加新功能。
 
 ## 预览
 **主题**
 
-- [耕云导航 在线预览](https://nav3.cn/#/sim)
+- [耕云导航 在线预览](http://nav.untview.top/)
 
-![Preview](https://usercontent.githubfast.com/raw/xjh22222228/public/gh-pages/nav/1.png)
+![Preview](Preview/1.jpg)
+![Preview](Preview/1-2.jpg)
+![Preview](Preview/1-3.jpg)
+![Preview](Preview/1-1.jpg)
+![Preview](Preview/2.jpg)
+![Preview](Preview/2-1.jpg)
 
 
 ## 特性
