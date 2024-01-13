@@ -26,6 +26,9 @@
 
 - [耕云导航 在线预览](http://nav.untview.top/)
 
+- [耕云导航后台 在线预览](http://nav.untview.top/houTai)<br/>
+账号：test，密码：123456 
+
 ![Preview](Preview/1.jpg)
 ![Preview](Preview/1-2.jpg)
 ![Preview](Preview/1-3.jpg)
@@ -49,6 +52,27 @@
 - 🏷️ 支持自定义引擎搜索。
 - 🏷️ 支持暗黑模式。
 - 🏷️ 支持后台管理。
+
+
+## 仓库
+
+#### Github
+- 前台源码
+[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
+- 后台源码
+[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
+- 服务端源码
+[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
+
+
+#### Gitee
+- 前台源码
+[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
+- 后台源码
+[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
+- 服务端源码
+[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
+
 
 
 ## 开发构建 部署
