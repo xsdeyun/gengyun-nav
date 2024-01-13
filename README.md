@@ -121,4 +121,4 @@ pnpm build
 <img src="Preview/appreciate.jpg" width="400" />
 
 ## 协议
-[MIT](./LICENSE)
+[Apache2](./LICENSE)
