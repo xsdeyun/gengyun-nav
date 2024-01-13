@@ -4,8 +4,8 @@
   </a>
   <br />
   <b>耕云导航</b>
-  <p align="center">一款基于Vue3、Naive-UI和ThinkPHP6.0的前后台分离的简洁、自适应开源导航网站，</p>
-  <p align="center">包含多种页面布局和卡片模式，优化内容提升用户体验。</p>
+  <p align="center">一款基于Vue3、Vite、Naive-UI和ThinkPHP6.0的前后台分离的简洁</p>
+  <p align="center"> 自适应开源导航网站，包含多种页面布局和卡片模式，优化内容提升用户体验。</p>
   <p align="center">
     <a href="README.md">
       <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
