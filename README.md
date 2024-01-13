@@ -12,7 +12,7 @@
     </a>
     <img src="https://img.shields.io/github/v/release/xsdeyun/gengyun-nav" />
     <a href="https://github.com/xsdeyun/gengyun-nav/stargazers"><img src="https://img.shields.io/github/stars/xsdeyun/gengyun-nav" alt="Stars"/></a>
-    <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
+    <img alt="Vue3" src="https://img.shields.io/static/v1.svg?label=&message=Vue3&style=flat-square&color=C82B38">
     <img src="https://img.shields.io/github/license/xsdeyun/gengyun-nav" />
   </p>
 </p>
