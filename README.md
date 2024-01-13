@@ -27,11 +27,11 @@
 
 #### Github
 - 前台源码
-[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
+[gengyun-nav](https://github.com/xsdeyun/gengyun-nav)
 - 后台源码
-[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
+[gengyun-nav-system](https://github.com/xsdeyun/gengyun-nav-system)
 - 服务端源码
-[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
+[gengyun-nav-server](https://github.com/xsdeyun/gengyun-nav-server)
 
 
 #### Gitee
