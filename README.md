@@ -10,6 +10,10 @@
     <a href="README.md">
       <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
     </a>
+    <img src="https://img.shields.io/github/v/release/xsdeyun/gengyun-nav" />
+    <a href="https://github.com/xsdeyun/gengyun-nav/stargazers"><img src="https://img.shields.io/github/stars/xsdeyun/gengyun-nav" alt="Stars"/></a>
+    <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
+    <img src="https://img.shields.io/github/license/xsdeyun/gengyun-nav" />
   </p>
 </p>
 
