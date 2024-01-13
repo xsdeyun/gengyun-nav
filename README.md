@@ -106,7 +106,16 @@ pnpm build
 ## 建议
 如果有任何功能上的建议可通过 [issue](https://gitee.com/song-xiansen/gengyun-nav/issues) 发起, Thank you.
 
+## 微信公众号
+关注 `耕云计划` 微信公众号，第一时间了解最新信息。
 
+<img src="Preview/weixin-gzh.jpg" width="120" />
+
+## 赞赏
+如果你觉得这个项目帮助到了你，赏一杯奶茶给作者吧 🫰🫰🫰。<br/>
+开源不易, 有了您的赞助, 我们会做的更好~
+
+<img src="Preview/appreciate.jpg" width="400" />
 
 ## 协议
 [MIT](./LICENSE)
