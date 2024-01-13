@@ -79,7 +79,7 @@
 
 
 ## 开发构建 部署
-NODE: v18 <br />
+NODE: v16 <br />
 注意：<br />
 将`vite.config` 中的 `http://127.0.0.1/` 替换成你网站域名<br />
 将`.env.production` 中的 `/index.php?s=` 替换成 域名/index.php?s=<br />
@@ -90,7 +90,7 @@ git clone  https://gitee.com/song-xiansen/gengyun-nav.git
 
 cd gengyun-nav
 
-# 安装依赖 NODE: v18
+# 安装依赖 NODE: v16
 pnpm
 
 # 启动
