@@ -21,6 +21,29 @@
 - 本人开发能力不是很牛，哪些很厉害的大神不要用了再喷！！！
 - 耕云导航目前为v1.0.0版本，后会继续更新增加新功能；也欢迎大家提出宝贵建议。
 
+
+
+## 仓库
+
+#### Github
+- 前台源码
+[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
+- 后台源码
+[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
+- 服务端源码
+[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
+
+
+#### Gitee
+- 前台源码
+[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
+- 后台源码
+[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
+- 服务端源码
+[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
+
+
+
 ## 预览
 **主题**
 
@@ -52,26 +75,6 @@
 - 🏷️ 支持自定义引擎搜索。
 - 🏷️ 支持暗黑模式。
 - 🏷️ 支持后台管理。
-
-
-## 仓库
-
-#### Github
-- 前台源码
-[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
-- 后台源码
-[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
-- 服务端源码
-[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
-
-
-#### Gitee
-- 前台源码
-[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
-- 后台源码
-[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
-- 服务端源码
-[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
 
 
 
